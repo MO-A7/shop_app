@@ -1,4 +1,4 @@
-# 🛒 Moshtriat
+#  Moshtriat
 
 <div align="start">
      <a href="https://api.visitorbadge.io/api/visitors?path=Moshtriat&label=People%20who%20visited%20this%20page&countColor=%23263759" target="_blank">
